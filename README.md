@@ -1,2 +1,2 @@
-# coffe-app
+# coffee-app
 Cafeteria
